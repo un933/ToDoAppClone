@@ -1,2 +1,2 @@
 # ToDoAppClone
-ToDoAppClone make with React-Native
+ToDoAppClone make with React-Native expo
